@@ -59,9 +59,8 @@ The application ships with a seeded demo organization, users, interviews, and qu
 - **Tooling:** pnpm, ESLint, TypeScript, and Vercel deployment automation
 
 ## Screenshots
-> Replace the placeholder images below with fresh captures from your deployment.
 
-![Admin dashboard placeholder](public/admin-dashboard.png)
+![Admin dashboard placeholder](public/admin_dashboard.png)
 ![Admin create interview](public/create_interview.png)
 
 ## Getting Started
