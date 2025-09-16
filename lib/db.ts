@@ -2,7 +2,7 @@ import { neon } from "@neondatabase/serverless"
 
 export const sql = neon(
   process.env.DATABASE_URL ||
-    "postgres://neondb_owner:npg_KzAMuEG4JjI7@ep-billowing-sunset-a2zrry32-pooler.eu-central-1.aws.neon.tech/neondb?sslmode=require",
+    "",
 )
 
 export interface Interview {
