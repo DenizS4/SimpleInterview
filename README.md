@@ -130,7 +130,7 @@ The seed data provisions the following demo users:
 | Role | Email | Password |
 | --- | --- | --- |
 | Admin | `admin@example.com` | `admin123` |
-| Candidate | `candidate@example.com` | `admin123` |
+| Candidate | `candidate@example.com` | `candidate123` |
 
 Update or remove these accounts once you connect a production database.
 
